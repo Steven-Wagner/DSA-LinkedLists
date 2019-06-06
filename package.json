@@ -1,0 +1,12 @@
+{
+  "name": "dsa-linkedlist",
+  "version": "1.0.0",
+  "description": "Linked List Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Steven Wagner",
+  "license": "ISC"
+}
